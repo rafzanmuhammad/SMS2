@@ -147,7 +147,7 @@ then
    SMSCHECK
    byemsg
 
-elif [ "$1" == "--sendsms" ]
+elif [ "$3" == "--sendsms" ]
 
 then
    banner
